@@ -1,0 +1,25 @@
+{
+  "name": "@lehungio/javascript",
+  "version": "1.0.3",
+  "description": "Javascript Challenges",
+  "main": "challenges.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lehungio/javascript.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "me@lehungio.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehungio/javascript/issues"
+  },
+  "homepage": "https://github.com/lehungio/javascript#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
